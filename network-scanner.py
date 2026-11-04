@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#script by @dimagmd (@withoutusernamebtw)
 import socket
 import time
 import sys
